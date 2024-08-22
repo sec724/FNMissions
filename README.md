@@ -1,20 +1,7 @@
-# STWMissionAlert-SwapTutorial
-a method that was going around fortnite discord servers that allows you to modify mission alert rewards by swapping them with another alert reward from another mission in the same zone (also this method allows you to queue up on dev missions which aren't accessible via normal means)
-
-
-# HOW TO DO MISSION ALERT SWAPS FOR FORTNITE SAVE THE WORLD (STW) 2023 ( written by @Windermed_ ) 
-
-This entire tutorial was the result of hours of research and trial and error after how annoyed i was at the amount of gatekeeping that existed around a (now) easy method from those who felt superior just because they recently learned how to use an http decryption tool on a video game where you build and fight players/husks lol
-and because of that, I decided to figure out the method on my own with the goal of releasing it  to the public simply out of spite of those who continue to gatekeep/sell a method that will probably be patched soon anyways lol
-
-if you decide to share or make a video tutorial on this all i ask is to be credited but i won't force you to.
-i would still appreciate it though if you could!
-
-anyways enough rambling, here is the method. hope you enjoy!
+# STWMissionAlert-SwapTutorial by Windermed
 
 **DISCLAIMER: JUST LIKE WITH ANY OTHER FORTNITE EXPLOIT/GLITCH, THIS MAY OR MAY NOT HAVE A BAN RISK. I HIGHLY RECOMMEND TO DO THIS ON AN ALT ACCOUNT IF POSSIBLE. 
  YOU ASSUME ALL RISK AND RESPONSIBILITY BY DOING THIS AND I AM NOT RESPONSIBLE FOR ANY POTENTIAL BANS THAT MAY OR MAY NOT OCCUR USING THIS METHOD.**
-
 
 What you will need:
 
@@ -109,18 +96,6 @@ https://github.com/Milxnor/Cobalt
 https://github.com/DarthTon/Xenos
 
 https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation/blob/main/Fortnite/SaveTheWorld/Missions.md (For STW mission data)
-
-- 
-**If you liked this tutorial and would like to see more, feel free to** [follow me on Twitter](https://twitter.com/Windermed_) 
-I post things related to fortnite modding/leaks (occasionally) and it can range from BR to STW as i'm a fan of both plus i try my best to release what i know so the community can benefit from it!
-so if that's up your alley then stick around as I have more things i plan to post in the future!
-
-
-
-Have a hee-great day, ho!
-
--- Windermed
-
 
 **IF YOU NEED A GUIDE ON WHAT YOU NEED TO SWAP WITH/SWAP FROM, FEEL FREE TO USE THIS:
 ACCOUNT RESOURCE GUIDE:**
@@ -2402,8 +2377,3 @@ ACCOUNT RESOURCE GUIDE:**
 		"Hero:hid_outlander_zonepistolhw_vr_t03" - Beetlejess"
 		"Hero:hid_outlander_zonepistolhw_vr_t04" - Beetlejess"
 		"Hero:hid_outlander_zonepistolhw_vr_t05" - Beetlejess"
-
-(Note: this list wasn't written by me. Thank you to whoever sent me this on discord!)
-
-P.S I researched all of this out of spite of gatekeepers acting like assholes to those asking how to do this 
-(as well as ripping ppl off by selling it for $50 or scamming as well)
