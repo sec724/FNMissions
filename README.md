@@ -80,15 +80,9 @@ either while looking through a mission, or when you load into the lobby of a mis
 also i had some success using this method to load into a mission in-game and obtain the rewards (using an alt) but results may vary. 
 if the mission does not load with the rewards you swapped or it crashes or whatever You will need to find another mission to swap with unfortunately.
 
-Hopefully this might garner some interest in STW and also put an end to those who are trying to rip people off by selling the method on how to do alert swaps. I've also included a list of file names of STW resources below which may help if you need to know what the file name of a certain item your swapping with is called, hope it helps!
+I've also included a list of file names of STW resources below which may help if you need to know what the file name of a certain item your swapping with is called, hope it helps!
 
-whew this took me a while to write, but i hope it was clear enough to those reading it!
-
- there may  be some grammar mistakes or steps that i didn't clarify enough on and if they're are (or you have a question) then feel free to contact me on Discord (@Windermed) I'll try to respond to everyone as quick as i can, but for now i'm just gonna rest since i've spent the past 10-12 hours researching this method lol
-
-
-
-**LINKS THAT MAY BE HELPFUL**: (Credit to everyone linked below!)
+**LINKS THAT MAY BE HELPFUL**:
 https://github.com/Lawin0129/LawinServer 
 
 https://github.com/Milxnor/Cobalt
@@ -99,7 +93,6 @@ https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation/blob/main/Fo
 
 **IF YOU NEED A GUIDE ON WHAT YOU NEED TO SWAP WITH/SWAP FROM, FEEL FREE TO USE THIS:
 ACCOUNT RESOURCE GUIDE:**
-
 
 	CURRENCY:
 	campaign_event_currency - Currency of the season (might be tickets??)
